@@ -1,0 +1,22 @@
+{
+  "name": "peerless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dammy12/peerless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dammy12/peerless/issues"
+  },
+  "homepage": "https://github.com/Dammy12/peerless#readme",
+  "dependencies": {
+    "cypress": "^14.2.0"
+  }
+}
